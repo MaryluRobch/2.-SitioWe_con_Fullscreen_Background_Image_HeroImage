@@ -1,1 +1,1 @@
-# 2.-SitioWe_con_Fullscreen_Background_Image_HeroImage
+SitioWe_con_Fullscreen_Background_Image_HeroImage
